@@ -42,5 +42,5 @@ end
 
 def matrix_update(matrix, row, column, new_value)
   matrix[row][column] == new_value
-  p matrix[row][column]
+  p matrix[row]
 end
